@@ -34,7 +34,7 @@ int main(void) {
 			}
 			else
 			{
-				printf("\nPrimero ingrese el nombre de la entidad");
+				printf("\nPrimero ingrese el nombre de la entidad.");
 			}
 		break;
 		case 3:
